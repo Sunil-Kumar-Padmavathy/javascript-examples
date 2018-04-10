@@ -9,3 +9,4 @@ let firstName1 ="John1",
 
 console.log(firstName1,lastName1);
 
+console.log(typeof(firstName));
